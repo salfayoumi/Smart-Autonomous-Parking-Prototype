@@ -35,3 +35,8 @@ Hardware Components
 - 16x2 LCD
 
 - Jumper wires, Breadboard, Power supply
+
+
+License
+Original forked from anmspro/Smart-Car-Parking-System
+Modified and documented by @salfayoumi
